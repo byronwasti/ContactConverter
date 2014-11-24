@@ -1,7 +1,7 @@
 ContactConverter
 ================
 
-Converts exported Exchange contacts into importable Gmail contacts
+Converts exported Exchange contacts into importable Gmail contacts, at least for Olin exchange servers
 
 ===============
 Setps:
